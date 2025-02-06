@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YisusXCraist, engineer from El Salvador
 - 👀 I’m interested in introduce change into reality
 - 🌱 I’m currently learning to create my own tools
-- 💞️ I’m looking to collaborate on open source housing projects and AI 🥷
+- 💞️ I’m looking to collaborate on open source projects and AI 🥷
 <!---
 - 📫 How to reach me IG: @yisusxcraist
 --->
